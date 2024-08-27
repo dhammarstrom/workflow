@@ -1,0 +1,23 @@
+project:
+  type: book
+
+book:
+  title: "Guidelines for reproducible data analysis"
+  author: "Daniel Hammarström, Torkil Rogneflåten, "
+  date: "2024-08-27"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+

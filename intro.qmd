@@ -1,0 +1,32 @@
+# Introduction
+
+## What should this book be about?
+
+
+### Pre-data work
+  
+  * Formulating questions (directional hypothesis, quantitative hypothesis)
+  * Causal model
+  * Simulating data from statistical models representing the scientific (causal) model
+  * Building a data package
+  
+### Data collection
+  
+  * How to collect (record) data
+  * How to describe data using meta data
+  * How to share data across projects
+
+### Data analysis
+ 
+  * Re-using pre-data models
+  * Writing up results
+
+### Publish, sharing and archiving 
+        
+        
+        
+
+
+
+
+
